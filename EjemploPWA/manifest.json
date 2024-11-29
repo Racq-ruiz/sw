@@ -1,0 +1,16 @@
+{
+    "short_name": "App",
+    "name": "Mi PWA",
+    "icons": [
+        {
+            "src": "img/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.php",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#b2e2f2",
+    "theme_color": "#c5c6c8"
+}
